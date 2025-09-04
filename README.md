@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siahbautista&label=Profile%20views&color=0e75b6&style=flat" alt="siahbautista" /> </p>
 
-- 🔭 I’m currently working on [Fitformotion](fitformotion.com)
+- 🔭 I’m currently working on [Fitformotion](https://fitformotion.com)
 
-- 👨‍💻 More info about myself at [siahbautista.com](siahbautista.com)
+- 👨‍💻 More info about myself at [siahbautista.com](https://siahbautista.com)
 
 - 📫 You can contact me through **siahbautista@blappe.com**
 
