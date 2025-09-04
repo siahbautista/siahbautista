@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siahbautista&label=Profile%20views&color=0e75b6&style=flat" alt="siahbautista" /> </p>
 
-- 🔭 I’m currently working on [Fitformotion](https://fitformotion.com)
+- 🔭 I’m currently working on <a href="https://fitformotion.com" target="_blank">Fitformotion</a>
 
-- 👨‍💻 More info about myself at [siahbautista.com](https://siahbautista.com)
+- 👨‍💻 More info about myself at <a href="https://siahbautista.com" target="_blank">siahbautista.com</a>
 
 - 📫 You can contact me through **siahbautista@blappe.com**
 
-- 📄 Know about my experiences [linkedin.com/in/siahbautista/](linkedin.com/in/siahbautista/)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/siahbautista/" target="_blank">linkedin.com/in/siahbautista/</a>
 
 - ⚡ Fun fact **I got my first personal computer at the age of 7**
 
